@@ -22,3 +22,5 @@
  const MultiDi:number[][]=[[44,345]]
  const triple:number[][][]=[[[34,34234,2343,]]]
  console.log(singlDi,MultiDi,triple) 
+
+ 
