@@ -1,6 +1,6 @@
 //string
 
-let myName: string ='welcome to the typescript world'
+let myName: string;
 myName='Naveen Kumar'
 console.log(myName)
 
@@ -14,3 +14,8 @@ console.log(number)
 let boolean:Boolean=false
 boolean=true;111
 console.log(boolean)
+
+let naveen=34;
+console.log(typeof(naveen))
+
+const kumar:string='sadfdf';

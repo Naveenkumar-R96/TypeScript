@@ -29,3 +29,18 @@ class naveen{
 
 let p1=new naveen(2,'adfj');
 console.log(p1.last)
+
+
+class animal{
+    private one:string;
+
+    constructor(comming:string){
+        this.one=comming;
+    }
+    getName():string{
+        return this.one
+    }
+
+}
+let Animal =new animal("naveentheSS")
+console.log(Animal.getName())
