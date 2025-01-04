@@ -1,7 +1,11 @@
 //string
+let myName='kasdjf'
+console.log(typeof(myName))
 
-let myName: string;
-myName='Naveen Kumar'
+const nkk:string='kajd'
+
+console.log(nkk)
+
 console.log(myName)
 
 //number

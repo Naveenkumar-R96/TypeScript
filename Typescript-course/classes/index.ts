@@ -2,9 +2,9 @@ class person {
     name:string;
     age:number;
 
-    constructor(name:string,age:number){
-        this.name=name;
-        this.age=age;
+    constructor(commingname:string,commingage:number){
+        this.name=commingname;
+        this.age=commingage;
     }
 }
 
@@ -44,3 +44,40 @@ class animal{
 }
 let Animal =new animal("naveentheSS")
 console.log(Animal.getName())
+
+
+class NaveenDetails {
+    one: string;
+    two: number;
+    constructor(cone: string, ctwo: number) {
+        this.one = cone;
+        this.two = ctwo;
+    }
+}
+
+const cd = new NaveenDetails('vada', 34)
+
+class kumar{
+    lk:string;
+    llk:string;
+    constructor(){
+    this.lk="ladsj";
+    this.llk='alkdf'}
+}
+
+const lllk=new kumar
+console.log(lllk)
+
+
+
+
+/* class naveen{
+    one:string;
+    two:number;
+    constructor(cone:string,ctwo:number){
+        this.one=cone;
+        this.two=ctwo;
+    }
+}
+
+const cd=new naveen('vada',34) */

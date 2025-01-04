@@ -1,10 +1,10 @@
-interface Computer {
+/* interface Computer {
   name: string;
   ram: number;
   hdd: number;
 }
-
-const computerExample: Computer = {
+ */
+const computerExample = {
   name: ";akdjf",
   ram: 343,
   hdd: 643,
@@ -13,6 +13,7 @@ const computerExample: Computer = {
 console.log(computerExample.name);
 console.log(computerExample.hdd);
 console.log(computerExample.ram);
+console.log(typeof(computerExample))
 
 //////////
 
@@ -35,8 +36,11 @@ console.log(movie1.rating);
 
 //////for function
 
-interface Mathoperation {
-  (x: number, y: number): number;
+/* interface Mathoperation {
+  (x: number, y: number) : any
+} */
+interface Mathoperation{
+  (a:any,b:any):any
 }
 const add: Mathoperation = (a, b) => a + b;
 console.log(add(2, 2)); 

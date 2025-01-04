@@ -31,3 +31,8 @@ const dog1 = uniquefunction<Dog>(
   { name: "default", breed: "unknown" }
 );
 console.log(dog1)
+
+ let asdf:string='adkf';
+ let aasdf:string;
+
+ const dogi=asdf
