@@ -4,7 +4,7 @@ console.log(typeof(myName))
 
 const nkk:string='kajd'
 
-console.log(nkk)
+console.log('hi')
 
 console.log(myName)
 
