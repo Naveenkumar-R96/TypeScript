@@ -36,11 +36,11 @@ const serveFile = async (filePath, contentType, response) => {
 
 const server = http.createServer((req, res) => {
     console.log(req.url);
-    console.log(req.method);
+    
     myEmitter.emit('log', `${req.url}\t${req.method}`, 'reqLog.txt');
 
     const extension = path.extname(req.url);
-
+ 
     let contentType;
 
     switch (extension) {

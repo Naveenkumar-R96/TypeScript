@@ -4,7 +4,10 @@ POST http://localhost:3000/employee
 Content-Type: application/json
 
 {
-    "firsname":"BALA",
-    "lastname":"subscribe"
+    "firstname": "BALA",
+    "lastname": "subscribe"
 }
-
+###s
+GET  http://localhost:3000/employee/2
+###s
+DELETE   http://localhost:3000/employee/2

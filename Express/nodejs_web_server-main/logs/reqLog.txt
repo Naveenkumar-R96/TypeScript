@@ -17,3 +17,15 @@
 20250414	12:55:10	60ef381a-c535-49f7-8088-7e5a88f41caf	GET	/	https://www.google.com
 20250414	12:58:11	3c6c0d3f-5f54-441f-9633-70686df14583	OPTIONS	/	https://www.google.com
 20250414	12:58:11	b8cbd7ee-6e0a-4be6-8b82-c4efb52dc262	GET	/	https://www.google.com
+20250426	11:27:09	a47238e2-3194-4a76-99a1-594461c2fb8b	GET	/css/style.css	undefined
+20250426	11:27:13	975b8fac-f38f-4b00-8cf3-b3ead44c01aa	POST	/employee	undefined
+20250426	11:27:30	82ef6fcb-72c2-4e94-acd2-f2bc5cb2245d	POST	/employee	undefined
+20250426	11:28:54	2585c447-4a46-4fcc-a866-ca6840cac594	GET	/employee	undefined
+20250426	11:31:09	51602431-f278-4725-8ee6-bc8117694955	GET	/css/style.css	undefined
+20250426	11:31:26	2a4d9327-4d83-412b-81e3-6d25241a2752	GET	/css/style.css	undefined
+20250426	11:32:56	b903c663-8e83-47fb-a79b-b78ee2409832	DELETE	/employee/1	undefined
+20250426	11:33:26	3f8add01-5b9a-4985-ad19-b79b06c424fa	GET	/employee/1	undefined
+20250426	11:33:43	0ac05cff-3c68-48c4-9e90-1997ba8dc8b9	GET	/employee/2	undefined
+20250426	11:33:57	e18d6297-4690-4787-8959-c774834d232c	PUT	/employee/2	undefined
+20250426	11:34:04	732f6b83-7753-4934-af5a-534af6a1b7ac	PUT	/employee/2	undefined
+20250426	11:34:17	3174af3d-51dd-46f0-8e7b-6c94d2595db1	DELETE	/employee/2	undefined
