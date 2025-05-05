@@ -1,13 +1,11 @@
-GET  http://localhost:3000/employee
-###s
+GET http://localhost:3000/employee
+
+###
+
 POST http://localhost:3000/employee
 Content-Type: application/json
 
 {
-    "firstname": "BALA",
-    "lastname": "subscribe"
+  "firstname":"naveen",
+  "lastname":"kumar"
 }
-###s
-GET  http://localhost:3000/employee/2
-###s
-DELETE   http://localhost:3000/employee/2
